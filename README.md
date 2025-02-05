@@ -16,13 +16,13 @@ The **Spotify Music Data Visualizer** is a web application that provides interac
 - **Next.js**: React framework for SSR and static site generation.
 - **TypeScript**: Enhances code reliability and maintainability.
 - **Tailwind CSS**: Used for styling and responsiveness.
-- **Recharts**: Used for interactive data visualizations.
+- 
 
 ### Backend (Go)
 - **Golang**: High-performance API development.
 - **Gin Framework**: Lightweight web framework for handling API requests.
 - **Spotify Web API**: Fetching user listening data.
-- **PostgreSQL**: Storing and managing user data.
+-
 
 ## Installation & Setup
 ### Prerequisites
